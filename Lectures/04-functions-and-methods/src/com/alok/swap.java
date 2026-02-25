@@ -1,0 +1,14 @@
+package com.alok;
+
+public class swap {
+    public static void main(String[] args) {
+       int a = 50;
+       int b= 20;
+       // code for swapping
+       /* int temp = a;
+        a=b;
+        b=temp;
+        System.out.println(a+" "+b);*/
+
+    }
+}
