@@ -8,6 +8,6 @@ public class temperature {
         System.out.print("Please enter temp in C: ");
         float tempC = in.nextFloat();
         float tempF = (tempC * 9/5) + 32;
-        System.out.println(tempF);
+        System.out.println("temp in farhanite is:"+tempF);
     }
 }
